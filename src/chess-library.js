@@ -114,6 +114,7 @@ function cleanup() {
     MOVELIST.length = 0;
     CHESS.moveNo = 0;
     CHESS.moveDrawCt = 0;
+    CHESS.positions = {};
     CHESS.gameOn = false;
 }
 

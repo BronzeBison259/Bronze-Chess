@@ -27,7 +27,7 @@ class Chess {
 class LegalEntry {
     constructor(dst, bits) {
         this.dst = dst;
-        //1 for capture, 2 for check
+        //1 for capture, 2 for check, 4 for castle
         this.bits = bits;
     }
 }
@@ -45,7 +45,9 @@ class Move {
         //5 for king/rook move that waives castling rights, piece name if promotion.
         this.spec = spec;
 
-        //0 if not a check, 1 if check, 2 if checkmate, 3 if stalemate.
+        //0 if not a check, 1 if check, 2 if checkmate, 3 if stalemate,
+        //4 if draw by insufficient material, 5 if draw by repetition,
+        //6 if 50-move draw.
         this.check = 0;
         this.draw = draw;
     }
@@ -58,7 +60,7 @@ class Piece {
         this.rank = rank;
         this.file = file;
         this.canCastle = castle;
-        if(rank >= 0) {
+        if(0 <= rank && rank < DIM_LIM) {
             state.chess.board[rank][file].piece = this;
         }
     }
@@ -1725,3 +1727,4 @@ function pushHandler(argv) {
     }
     return([successCt, status]);
 }
+

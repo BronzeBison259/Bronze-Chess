@@ -15,7 +15,6 @@ const CARD_ENTRY = `To use the script's built-in chess board, you must enter the
 /chess pgn - Print the current list of moves in PGN format
 /chess fen [FEN] - Set the state of the board to match the given FEN string (Experimental)`;
 
-// Every script needs a modifier function
 const modifier = (text) => {
   //Create the instructions story card if it doesn't currently exist.
   let instrFound = false;
@@ -32,7 +31,7 @@ const modifier = (text) => {
   //Add game info to the context if a game is currently running.
   if(CHESS.gameOn) {
     let contextStart = ` There is currently an ongoing chess game between ${WHITE.name} and ${BLACK.name}.\n`;
-    let whiteToMove = state.chess.moveNo % 2 == 0;
+    let whiteToMove = CHESS.moveNo % 2 == 0;
     let oppPieces = playerToString(!whiteToMove) + "\n"
     let chessContext = contextStart + oppPieces + legalToString();
     let newText = text + chessContext;
@@ -42,3 +41,4 @@ const modifier = (text) => {
 };
 
 modifier(text);
+

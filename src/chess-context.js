@@ -7,7 +7,7 @@ const CARD_ENTRY = `To use the script's built-in chess board, you must enter the
 /chess suspend - Stop adding game info to context without affecting the game state
 /chess resume - Continue adding game info to context without affecting the game state
 /chess white [name] - Set the name of the character with the white pieces (default name White)
-/chess black [name] - Set the name of character with the black pieces (default name Black)
+/chess black [name] - Set the name of the character with the black pieces (default name Black)
 /chess push [move1]... - Make moves on the board (PGN style, separated by spaces)
 /chess pop [number] - Undo the last [number] moves made on the board
 /chess legal - Print the current legal moves for the next player

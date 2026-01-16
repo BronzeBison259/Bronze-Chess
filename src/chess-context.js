@@ -36,7 +36,6 @@ const modifier = (text) => {
     let oppPieces = playerToString(!whiteToMove) + "\n"
     let chessContext = contextStart + oppPieces + legalToString();
     let newText = text + chessContext;
-    //log(chessContext);
     return{text: newText};
   }
   return { text };

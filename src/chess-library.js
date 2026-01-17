@@ -303,7 +303,7 @@ function disambiguate(pieces, travel) {
             }
         }
     } else {
-        return("too many pieces")
+        return("too many pieces");
     }
 }
 
@@ -325,7 +325,7 @@ function enPassantPossible() {
 
 //Determines which castles to write in FEN output. Does not check for attacks restricting castling.
 function fenCastleCheck() {
-    castles = "";
+   let castles = "";
    let wKing = locateKing(true);
    let wqRook = locateRook(true, 0, true);
    let wkRook = locateRook(true, 7, true);

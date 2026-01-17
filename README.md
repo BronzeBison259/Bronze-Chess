@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="JanitorBronzeChess.png" width="800">
+</p>
+
 # BronzeChess
 
 Written by BronzeBison259

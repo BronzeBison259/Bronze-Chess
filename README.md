@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="JanitorBronzeChess.png" width="800">
+  <img src="https://raw.githubusercontent.com/BronzeBison259/Bronze-Chess/refs/heads/main/img/JanitorBronzeChess.png" width="800">
 </p>
 
 # BronzeChess

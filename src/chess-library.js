@@ -870,7 +870,10 @@ function movesToPGN() {
         let move = MOVELIST[i];
         if(i % 2 == 0) {
             let id = Math.trunc(move.id / 2) + 1;
-            result += id + ". ";
+            result += id;
+            if(move.spec !== -1) {
+                result += ". ";
+            }
         }
         result += moveToString(move);
         if(i < final) {
@@ -1728,4 +1731,3 @@ function pushHandler(argv) {
     }
     return([successCt, status]);
 }
-

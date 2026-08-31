@@ -28,10 +28,10 @@ You stare at the chess board, the familiar pattern of pieces making you feel odd
 
 Mr. Bronze steeples his fingers, the sunlight catching in his glasses. "That's fine. The basics are what matter." His face becomes more serious as he moves his king's pawn two spaces forward. "I won't go easy on you. Consider this your first real lesson in Heaven."
 
-/chess new - Board reset!
-/chess white Mr. Bronze- Player name set!
-/chess black Bimmy - Player name set! 
-/chess push e4 e5 - Success!
+*/chess new - Board reset!*  
+*/chess white Mr. Bronze - Player name set!*  
+*/chess black Bimmy - Player name set!*  
+*/chess push e4 e5 - Success!*
 
 **You do**
 
@@ -43,7 +43,7 @@ Mr. Bronze leans back slightly in his chair, the morning sunlight catching the s
 
 You study the board, considering your options. The familiar chess pieces feel comfortable in your hands, grounding you in this strange new world.
 
-/chess push Nf3 Nc6 - Success!
+*/chess push Nf3 Nc6 - Success!*
 
 **You do**
 
@@ -55,7 +55,7 @@ His face remains composed, but there's an unmistakable weariness in his tone. Yo
 
 "But let's focus on the game," he adds, sliding his glasses up the bridge of his nose.
 
-/chess push Bb5 a6 - Success!
+*/chess push Bb5 a6 - Success!*
 
 **You do**
 
@@ -67,7 +67,7 @@ His glasses catch the light as he leans forward slightly, resting his elbows on 
 
 "The real question is whether you want to hear about it now, or if you'd rather keep focused on the game."
 
-/chess push Ba4 b5 Bb3 Nf6 - Success!
+*/chess push Ba4 b5 Bb3 Nf6 - Success!*
 
 **You do**
 
@@ -77,7 +77,7 @@ Mr. Bronze's face shifts into something unreadable as he studies the board, fing
 
 You notice how his jaw tightens slightly as he glances around the park, then back at you. "Though I suppose I could tell you about the time I lost to that jazz musician in 1932. Fourteen moves, and I still think about that opening."
 
-/chess push d4 Nxd4 Nxd4 c5 - Success!
+*/chess push d4 Nxd4 Nxd4 c5 - Success!*
 
 **You do**
 
@@ -89,7 +89,7 @@ Mr. Bronze's fingers drum a slow rhythm on the table as he recalls the memory. H
 
 You notice his jaw working slightly as he continues. "But he was fast. I'd barely settled my pieces before he was deep into the Exchange Variation." His hand drifts to his chest pocket, rubbing at the fabric absently. "I thought I had him pinned with a bishop sacrifice."
 
-/chess push Nxb5 axb5 - Success!
+*/chess push Nxb5 axb5 - Success!*
 
 **You do**
 
@@ -105,7 +105,7 @@ He exhales slowly, fingers tightening around his captured knight as he sets it a
 
 His hand moves to adjust his tie, though it doesn't need adjusting. "The worst part?"
 
-/chess push Bd5 Nxd5 Qxd5 Ra6 - Success!
+*/chess push Bd5 Nxd5 Qxd5 Ra6 - Success!*
 
 **You do**
 
@@ -115,7 +115,7 @@ Mr. Bronze remains utterly still as you complete the exchange, his fingers tight
 
 "The worst part," he finally continues, speaking in a way that makes it clear he's replaying the moment in his mind, "was knowing I had already lost before I even realized it." His free hand moves to adjust his tie again, though it's already perfectly straight. "He had me in check before I could even think about attacking his king. My pieces were already misplaced."
 
-/chess push O-O d6 Qd3 Qb6 - Success!
+*/chess push O-O d6 Qd3 Qb6 - Success!*
 
 **You do**
 
@@ -125,7 +125,7 @@ Mr. Bronze's fingers release the knight to rest beside the board, his movements 
 
 His eyes flick up to yours, and you see the shadow of that old defeat still there, buried beneath years of experience. "The jazz musician's name was Louis."
 
-/chess push Qe3 g6 - Success!
+*/chess push Qe3 g6 - Success!*
 
 **You do**
 
@@ -137,7 +137,7 @@ His hand moves to his own breast pocket, mimicking the jazz musician's gesture. 
 
 His fingers tighten around his bishop, though he doesn't move it yet.
 
-/chess push Nc3 Bg7 - Success!
+*/chess push Nc3 Bg7 - Success!*
 
 **You do**
 
@@ -147,7 +147,7 @@ Mr. Bronze's eyes flicker as he watches you position your bishop, the sunlight c
 
 His hand drifts up to rub the back of his neck, the fabric of his shirt rustling softly. "Louis had this way of looking at the board that was... different from anyone else I'd ever played." He taps his finger against his temple. "Like he was seeing things before they happened. I needed to understand how."
 
-/chess push Nd5 Qa7 - Success!
+*/chess push Nd5 Qa7 - Success!*
 
 **You do**
 
@@ -157,7 +157,7 @@ Mr. Bronze exhales slowly, his fingers brushing against his knight before withdr
 
 He moves his rook to e1, a defensive measure to protect his king from your developing pressure. "I watched him," Mr. Bronze continues, fingers hovering near his queen. "Watched how he didn't just think about the immediate threats—he saw the patterns. The flow of the game." His eyes flick up to meet yours.
 
-/chess push Re1 O-O - Kingside castle!
+*/chess push Re1 O-O - Kingside castle!*
 
 **You do**
 
@@ -169,7 +169,7 @@ Mr. Bronze watches your king slip into safety with an almost imperceptible nod o
 
 "They don't know how to take risks. Not the kind that matter." His eyes meet yours across the board. "Louis was different. He played like every piece was his life on the line."
 
-/chess push Rd1 Bg4 - Success!
+*/chess push Rd1 Bg4 - Success!*
 
 **You do**
 
@@ -181,7 +181,7 @@ Mr. Bronze's fingers tighten around the edge of the table as your bishop threate
 
 "That night in the jazz club, he wasn't just playing for fun." Mr. Bronze's knuckles whiten as he grips his queen.
 
-/chess push Rd2 Be6 - Success!
+*/chess push Rd2 Be6 - Success!*
 
 You press your advantage, advancing your bishop to e6 while Mr. Bronze's queen remains trapped between his own pieces and your pawn chain. The morning sun catches the angles of his face as he studies the board, the lines around his eyes deepening with thought.
 
@@ -189,7 +189,7 @@ You press your advantage, advancing your bishop to e6 while Mr. Bronze's queen r
 
 Mr. Bronze's fingers drum a slow rhythm against the edge of the table as he considers his response. He doesn't look up from the board, but you can see the slight tension in his jaw. "The kind that gets you killed if you lose," he says finally, speaking quietly. His rook shifts to d1 with a soft click, repositioning to protect his queen.
 
-/chess push Rd1 Bxd5 - Success!
+*/chess push Rd1 Bxd5 - Success!*
 
 Mr. Bronze's fingers twitch slightly as you capture his knight with your bishop. His jaw tightens as he watches the piece leave the board, but he doesn't immediately reach for another move. Instead, he adjusts his glasses and takes a slow breath.
 
@@ -197,7 +197,7 @@ Mr. Bronze's fingers twitch slightly as you capture his knight with your bishop.
 
 "So they gave him a choice."
 
-/chess push Rxd5 Rxa2 Rxa2 Qxa2 - Success!
+*/chess push Rxd5 Rxa2 Rxa2 Qxa2 - Success!*
 
 **You do**
 
@@ -207,7 +207,7 @@ Mr. Bronze watches as you complete the exchange, his fingers drumming against th
 
 "They gave Louis a choice," he continues, his words falling into a low murmur that feels almost conspiratorial. "Play one perfect game of chess against a Grim Reaper, and he could keep his life. Lose..." His fingers tighten around his captured rook. "Well, you can imagine."
 
-/chess push Rxd6 Qb1 - Success!
+*/chess push Rxd6 Qb1 - Success!*
 
 **You do**
 
@@ -223,7 +223,7 @@ Mr. Bronze's fingers drift across the board as he considers his move, finally se
 
 The morning sun catches in his glasses as he watches your next move with an intensity that contradicts his words. "But Louis..."
 
-/chess push g3 Qxc2 - Success!
+*/chess push g3 Qxc2 - Success!*
 
 Mr. Bronze's fingers hover over his queen, eyes locked onto the threat she now faces. His lips press into a thin line as he considers his options, the morning sun catching in his glasses.
 
@@ -231,7 +231,7 @@ Mr. Bronze's fingers hover over his queen, eyes locked onto the threat she now f
 
 Mr. Bronze leans back slightly, adjusting his tie as his eyes track the movement of your queen. "So they banished him. Stripped him of his place in Heaven and barred him from the mortal world." His fingers tap against the table edge.
 
-/chess push Qc3 Qxc3 bxc3 Rb8 - Success!
+*/chess push Qc3 Qxc3 bxc3 Rb8 - Success!*
 
 **You do**
 
@@ -243,13 +243,13 @@ Mr. Bronze's fingers tighten around the edge of the board as he watches your paw
 
 "Louis thought he could outsmart the Fates even there." Mr. Bronze's voice carries a note of reluctant admiration.
 
-/chess push Rd5 Bf8 - Success!
+*/chess push Rd5 Bf8 - Success!*
 
 Mr. Bronze's fingers hover over his bishop on c1, considering its movement across the board. The morning light catches the silver threads in his dark hair as he studies your position. "Louis spent centuries in The Void," he continues, speaking quietly with a distant quality. "Playing chess against himself, against shadows, against whatever he could make up to keep his mind from fracturing."
 
 His bishop finally moves to e3, cutting off your bishop's path to the center. "He found ways to make the emptiness work for him," Mr. Bronze adds, almost admiringly. "Created illusions of a board, of pieces, of opponents." His fingers tap against the edge of the table.
 
-/chess push Be3 b4 cxb4 cxb4 - Success!
+*/chess push Be3 b4 cxb4 cxb4 - Success!*
 
 **You do**
 
@@ -259,13 +259,15 @@ Mr. Bronze's fingers drum against the table as he considers his next move. The m
 
 He adjusts his tie with quick, precise movements. "Louis spent centuries moving pieces through nothingness. Eventually, he forgot what it meant to play against an actual opponent." The bishop's shadow stretches across the board as he shifts his weight.
 
-/chess push Bc1 Rc8 - Success! Mr. Bronze's fingers tighten around the edge of the board as he watches your rook move to c8. The morning sun catches the silver threads in his hair as he leans forward slightly.
+*/chess push Bc1 Rc8 - Success!*
+
+Mr. Bronze's fingers tighten around the edge of the board as he watches your rook move to c8. The morning sun catches the silver threads in his hair as he leans forward slightly.
 
 "The last time I saw Louis," he says, voice softening with memory, "he was... different." His bishop moves to b2 with a quiet click, blockading your b-pawn. "The Void had changed him. He spoke in patterns now—like he was still thinking in moves and countermoves." Mr. Bronze's fingers drum against the table as he studies the board.
 
 "He wasn't playing for his life anymore. He was just... playing."
 
-/chess push Bb2 f6 - Success!
+*/chess push Bb2 f6 - Success!*
 
 **You do**
 
@@ -275,7 +277,7 @@ Mr. Bronze's fingers pause over his rook as he considers your pawn chain, the mo
 
 "The Void didn't just take his mind, Bimmy," he says quietly, moving his rook to d2 with a soft click. "It became his mind." His hand hovers near the piece for a moment longer before withdrawing. "Louis... he would start speaking in openings and variations mid-conversation. His eyes would track invisible moves across the table even when there wasn't one."
 
-/chess push Rd2 Kf7 - Success!
+*/chess push Rd2 Kf7 - Success!*
 
 **You do**
 
@@ -285,13 +287,13 @@ Mr. Bronze's fingers tighten around the edge of the table as your king advances.
 
 His rook moves to e2 with a soft click, guarding against your passed pawn. "He would sit in the park for hours, moving pieces through the air even when there was no board. Talking about openings and strategies to himself like they were conversations." Mr. Bronze's knuckles whiten as his fingers hover near his rook.
 
-/chess push Re2 Ke6 - Success!
+*/chess push Re2 Ke6 - Success!*
 
 Mr. Bronze's fingers hover over his rook for a moment longer than necessary before he makes his move. The morning sun catches the silver threads in his dark hair as he shifts his weight slightly. "Louis used to say that every piece on the board was just an extension of himself," he murmurs, voice almost lost in the rustling leaves around you.
 
 "He stopped differentiating between the pieces and his own consciousness." His rook moves to e3 with a soft click, cutting off your king's escape to f5. "By the time I saw him last, he was having full conversations with himself—playing both sides of a game that only existed in his mind."
 
-/chess push Re3 Rc2 - Success!
+*/chess push Re3 Rc2 - Success!*
 
 **You do**
 
@@ -303,7 +305,7 @@ Mr. Bronze's fingers freeze over the board as your rook settles on his second ra
 
 "The Void..."
 
-/chess push Bc3 bxc3 - Success!
+*/chess push Bc3 bxc3 - Success!*
 
 "The Void doesn't just change the people trapped in it," Mr. Bronze says, his words falling into a low murmur as his fingers continue their uneven tapping against the table. "It changes everything that goes in there. Even us."
 
@@ -311,7 +313,7 @@ His rook shifts to e1 with a soft click, protecting his king from your piece. "T
 
 "Louis wasn't playing chess anymore. He was being chess." Mr. Bronze's fingers twitch against the table.
 
-/chess push Re1 Rd2 - Success!
+*/chess push Re1 Rd2 - Success!*
 
 **You do**
 
@@ -323,11 +325,11 @@ His rook moves to a1 with a soft click, guarding against your pawn's advance. Th
 
 His fingers drum against the tabletop as he considers his next move.
 
-/chess push Ra1 c2 - Success!
+*/chess push Ra1 c2 - Success!*
 
 The morning sun catches the silver threads in Mr. Bronze's hair as he studies the board, his fingers drumming a slow rhythm against the tabletop. "People who don't know when to quit," he says finally, moving his pawn to h4 with a soft click. His eyes flick up to meet yours briefly before returning to the pieces. "Or people who think they can outsmart the system."
 
-/chess push h4 Rd1 Rxd1 cxd1=Q - Check!
+*/chess push h4 Rd1 Rxd1 cxd1=Q - Check!*
 
 **You do**
 
@@ -337,7 +339,7 @@ Mr. Bronze's fingers freeze over the board as your queen slides into place with 
 
 "Check," he says softly, almost to himself. His fingers twitch against the tabletop before settling on his king. He moves it to g2 with careful deliberation. The moment his hand lifts, the piece stills in mid-air—hesitation or calculation, you can't tell which.
 
-/chess push Kg2 Bc5 - Success!
+*/chess push Kg2 Bc5 - Success!*
 
 **You do**
 
@@ -345,7 +347,7 @@ Mr. Bronze's fingers freeze over the board as your queen slides into place with 
 
 Mr. Bronze's fingers hover over his king for a long moment before he finally moves it to h2. The morning sun catches the sweat at his temples as he adjusts his glasses with precise movements. "Yes," he says quietly, his voice tight with something that might be bitterness or resignation. "After Louis... after The Void... I needed something... simpler." His hand remains on the king, as if steadying himself.
 
-/chess push Kh2 Bxf2 - Success!
+*/chess push Kh2 Bxf2 - Success!*
 
 Mr. Bronze's fingers tighten around the edge of the board as your bishop takes his pawn. He exhales slowly through his nose, the sound almost imperceptible over the rustling leaves around you. His hand remains hovering near the king, his knuckles white against the dark wood.
 
@@ -353,13 +355,13 @@ Mr. Bronze's fingers tighten around the edge of the board as your bishop takes h
 
 "Louis used to say that every piece on the board was just an extension of himself."
 
-/chess push Kh3 Qf3 - Success!
+*/chess push Kh3 Qf3 - Success!*
 
 Mr. Bronze's fingers pause over his pawn at h4 as he studies the board. The morning sun catches in his glasses, making it impossible to see his eyes. When he finally moves, it's with a deliberate slowness—his pawn advancing to h5 with a soft click. His hands remain hovering near the piece for a moment longer than necessary.
 
 "Louis used to tell me," he says quietly, almost to himself, "that every move had to be perfect in The Void." His fingers drum against the tabletop as he adjusts his tie with his other hand. "Because there was no undoing anything. No resetting the board." The sunlight catches the silver threads in his dark hair as he leans forward slightly.
 
-/chess push h5 Qxg3 - Checkmate!
+*/chess push h5 Qxg3 - Checkmate!*
 
 Mr. Bronze's fingers freeze in mid-air as your queen takes his pawn. The morning sun catches the sweat at his temples as he studies the board with an intensity that borders on recognition. His lips part slightly, and for a moment, he doesn't move at all.
 
@@ -397,8 +399,9 @@ Mr. Bronze's fingers pause mid-movement as you speak, the last piece—your quee
 
 Finally, he straightens his tie with a slow, deliberate motion. "Alright," he says, voice quieter now, more human. "But not here."
 
-/chess board
+*/chess board*
 
+```
 . . . . . . . .
 . . . . . . . p
 . . . . k p p .
@@ -408,8 +411,11 @@ Finally, he straightens his tie with a slow, deliberate motion. "Alright," he sa
 . . . . . b . .
 . . . . . . . .
 8/7p/4kpp1/4p2P/4P3/6qK/5b2/8 w - - 0 43
+```
 
-/chess pgn
+*/chess pgn*
 
+```
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Nf6 6. d4 Nxd4 7. Nxd4 c5 8. Nxb5 axb5 9. Bd5 Nxd5 10. Qxd5 Ra6 11. O-O d6 12. Qd3 Qb6 13. Qe3 g6 14. Nc3 Bg7 15. Nd5 Qa7 16. Re1 O-O 17. Rd1 Bg4 18. Rd2 Be6 19. Rd1 Bxd5 20. Rxd5 Rxa2 21. Rxa2 Qxa2 22. Rxd6 Qb1 23. g3 Qxc2 24. Qc3 Qxc3 25. bxc3 Rb8 26. Rd5 Bf8 27. Be3 b4 28. cxb4 cxb4 29. Bc1 Rc8 30. Bb2 f6 31. Rd2 Kf7 32. Re2 Ke6 33. Re3 Rc2 34. Bc3 bxc3 35. Re1 Rd2 36. Ra1 c2 37. h4 Rd1+ 38. Rxd1 cxd1=Q+ 39. Kg2 Bc5 40. Kh2 Bxf2 41. Kh3 Qf3 42. h5 Qxg3# 0-1
+```
 

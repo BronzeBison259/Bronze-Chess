@@ -640,7 +640,6 @@ function locateRook(color, file, fen) {
     let df = file < 4 ? -1 : 1;
     if(!fen) {
         //Check if spaces between king and rook are empty
-        
         for(let i = 4 + df; i != file; i += df) {
             space = BOARD[backRank][i];
             if(space.piece !== null) {
@@ -679,6 +678,25 @@ function makeMove(piece, travel) {
     let disamb = getDisambString(travel[0], travel[1]);
     let special = null;
     let draw = CHESS.moveDrawCt;
+
+    //Check if the move is legal before making it
+    let player = piece.color ? WHITE : BLACK;
+    if(src in player.legal) {
+        let legalMoves = player.legal[src];
+        let found = false;
+        for(const entry of legalMoves) {
+            if(entry.dst == dst) {
+                found = true;
+                break;
+            }
+        }
+        if(!found) {
+            return(null);
+        }
+    } else {
+        return(null);
+    }
+
     if(piece.type === "P") {
         CHESS.moveDrawCt = -1;
         if(dstRank == 0 || dstRank == 7) {
